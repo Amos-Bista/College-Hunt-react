@@ -19,6 +19,7 @@ function AppRouter() {
           <Route path="/collegeprofile" element={<CollegeProfile />} />
           <Route path="/signin" element={<Form />} />
         </Routes>
+        
       </div>
     </Router>
   );
