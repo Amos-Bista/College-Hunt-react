@@ -80,7 +80,7 @@ const TopUniversity = () => {
                                 className="w-[100%] h-[8rem]"
                             />
                             <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTojoPFipxWiMDGCJuuizZ1d8CrvJGImn64sWaBcadHpbgtetenSL-EA6eSs4EM2Y2v0RY&usqp=CAU" 
-                            alt="College Logo" 
+                            alt="image" 
                             className="absolute top-[0.325rem] left-[0.335rem] h-[2.5rem] rounded-full bg-white" />
                         </div>
                         <div className="p-1">
